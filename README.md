@@ -32,4 +32,6 @@ test
 
 24 branch@18 edited
 
-#35 change on mac
+35 change on mac
+
+no problem syncing with OneDrive / iCloud
