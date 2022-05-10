@@ -20,8 +20,14 @@ test
 
 16 main before branch
 
+18 main edit after branch
+
+20 main edit again
 18 main branch at 18
 
 20 branch@18 edited after branch
 
 27 branch@5 merged from branch@18
+22 branch@18 edited
+
+24 branch@18 edited
