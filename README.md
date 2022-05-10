@@ -16,3 +16,5 @@ test
 16 main before branch
 
 18 main branch at 18
+
+20 branch@18 edited after branch
